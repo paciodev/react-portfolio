@@ -5,7 +5,7 @@
 **Technologies I used:**
 
 - **React**
-- **Tailwind CSS** (MVP 😉)
+- **Tailwind CSS** (MVIP 😉)
 - Figma
 - GSAP
 - react-icons
