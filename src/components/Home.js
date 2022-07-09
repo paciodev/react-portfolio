@@ -100,7 +100,9 @@ function Home() {
               <p className='text-xl my-3'>
                 I'm 15 and my dream is to become a Fullstack Developer.
               </p>
-              <p className='font-semibold text-2xl mb-3'>Technologies I use:</p>
+              <p className='font-semibold text-2xl mb-3'>
+                Technologies I know:
+              </p>
               <div className='flex flex-row gap-1'>
                 <img src={jsLogo} alt='' className='h-10' />
                 <img src={reactLogo} alt='' className='h-10 w-10' />

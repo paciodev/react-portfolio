@@ -115,8 +115,8 @@ function About() {
                 answer='I have been programming for more than one year.'
               />
               <QuestionAndAnswer
-                question='What languages do you use?'
-                answer='HTML, CSS, JS and a lot of frameworks/libraries.'
+                question='What technologies do you use in your projects?'
+                answer='React/Next.js/Express/MongoDB/Tailwind CSS.'
               />
               <QuestionAndAnswer
                 question='Which CSS framework do you use the most?'
@@ -128,7 +128,7 @@ function About() {
               />
               <QuestionAndAnswer
                 question='What are you currently learning?'
-                answer='Express and MongoBB/Mongoose.'
+                answer='Express and MongoDB/Mongoose.'
               />
             </ul>
             <div className='flex flex-col justify-center items-center'>
